@@ -29,3 +29,8 @@ gem 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
+#
+
+gem 'ruby-debug19'
+gem 'awesome_print'
+gem 'geokit-rails3'
